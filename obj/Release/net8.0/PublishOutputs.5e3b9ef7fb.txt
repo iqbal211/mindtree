@@ -1,0 +1,7 @@
+C:\Users\iqbal\source\repos\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.exe
+C:\Users\iqbal\source\repos\WebApplication3\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\iqbal\source\repos\WebApplication3\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\iqbal\source\repos\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.dll
+C:\Users\iqbal\source\repos\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.deps.json
+C:\Users\iqbal\source\repos\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.runtimeconfig.json
+C:\Users\iqbal\source\repos\WebApplication3\obj\Release\net8.0\PubTmp\Out\WebApplication3.pdb
